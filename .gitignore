@@ -1,0 +1,7 @@
+﻿
+opencode.json
+opencode.jsonc
+.env
+.env.*
+node_modules/
+*.log
